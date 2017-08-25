@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f488db46-9380-45e2-b15e-4ace7bdb7c89",
+    "name": "Drone",
+    "description": "Get your package within an hour and have it flown in by a drone!",
+    "price": 19.99
+  },
+  {
+    "id": "c7f6535c-c56b-4e57-94dc-0e95b936b00b",
+    "name": "Express",
+    "description": "La plus rapide des modes de livraisons standards",
+    "price": 9.99
+  },
+  {
+    "id": "caa93bc4-d69a-4788-aff6-4a6fb538ace8",
+    "name": "Standard",
+    "description": "Livraison standard pouvant prendre jusqu'à 4 jours",
+    "price": 5.99
+  },
+  {
+    "id": "c272fc43-28e4-4ffd-ae61-0cfdec565f6f",
+    "name": "Pick-up",
+    "description": "Retirer votre objet en bureau de post, dès demain.",
+    "price": 0
+  }
+]
